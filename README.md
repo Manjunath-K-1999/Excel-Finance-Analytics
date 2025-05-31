@@ -10,10 +10,10 @@ This project showcases a detailed Profit & Loss (P&L) analysis across fiscal yea
    📄 [Fiscal Year P&L](https://github.com/Manjunath-K-1999/Excel-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)
 
 2. Break down financial performance by month.  
-   📄 [Monthly P&L](https://github.com/Manjunath-K-1999/Excel-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf)
+   📄 [Monthly P&L]()
 
 3. Compare profitability across global markets.  
-   📄 [Market-wise P&L](P & L Statement by Markets.pdf)
+   📄 [Market-wise P&L]([P & L Statement by Markets.pdf](https://github.com/Manjunath-K-1999/Excel-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf))
 
 ---
 
